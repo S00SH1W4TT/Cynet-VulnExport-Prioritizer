@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-"""cynet_priority.py
-
-Updated: Removed 'Grouped_by_CVE_Product' sheet and specific columns: 
-'exposure', 'sla_days', 'target_remediation_date', 'cve_version'
-"""
-
 import argparse
 import gzip
 import io
